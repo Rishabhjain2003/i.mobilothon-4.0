@@ -1,4 +1,4 @@
-# README for Predictive Maintenance System Repository
+# README for Predictive Maintenance System Repository.
 
 ## Repository Overview  
 This repository contains the workflow and code for building a machine learning application to predict engine health and assess machine confidence levels. It includes data preprocessing, model training, and a user-friendly application powered by Streamlit.  
